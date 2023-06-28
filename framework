@@ -1,0 +1,83 @@
+The purpose of this site is to make art accessible for everyone by bringing artists and their collection on a single access online platform where interested people can view and get to know by ceating a simple profile. 
+
+Created  and edited 6 templates from existing ones as per requirement. Simplified homepage and updated the bootstrap files. 
+
+Hompage edited on index.php file durinng Lab 1. 
+
+Edited the about.html to about.php, made changes and updated as per requirement. 
+
+Created Artists template by adapting about.html file and later changed it to php file after making updates.
+
+Collections_t.php file made from adapting index.php file and making chnages and updates as per requirements. 
+
+Updated contact file to signin.php file and made changes by updating and removing content. 
+
+Updated Navigation bar for webpages and links so that webpages become easy to access. 
+
+Added link to Post to the navigation bar, added post page to the website. 
+
+changed artists.php by making all names in to links for easy navigation for artisit information. 
+
+Added aboutartists page that can be reched from the links from the artist.php page. 
+
+Made changes to the collection_t.php page where the works of artist can be used to access the different themse of the artists. 
+
+created a themes.php file that can display the works of the artists by theme which can be accessed from the collection_t.php file. 
+
+
+A3
+
+Created four new tables named about, artists, themes and artwork. 
+Populated them with data and used them instead of the csv files on the webpage by linking them together. 
+Updated the index.php by linking it to the SQL database and hence providing a full image on the homepage. 
+upadted the about.php formated and comented code. 
+Updated the artist.php page 
+updated the aboutartists.php page  
+updated the collections_t and themes.php pages
+updated the links and made them fucntional 
+corrected errors from A2. 
+
+
+
+
+
+A4
+
+updated sign in page so that already existing user's credentials get validated and enables a session for them.   
+
+created sessions so that an existing user can sign in and sign out after their use.
+
+added new table called sign in to the already existing database
+
+Created createa ccount page 
+
+updated the post page 
+
+fixed errors from A3 in about artist page
+
+fixed errors from A3 in themes page. 
+
+Updated the navigation bar on all pages according to the session feature enableing the user to sign in and sign out at will.
+
+
+A5
+
+Fixed all the errors from A4
+
+Sign page is updated to take in new passaward and name. Checks password using password_verify method.
+
+Create account page creats accounts, hashes passwords and updates database using passwrod_hash method. 
+
+Post page is updated to add new themes. 
+
+updated quiries to prepared statements in the createaccount page and signin page 
+
+commented code 
+
+
+
+Citations:
+
+1. Lorem Ipsum. (n.d.). Retrieved Feburary 26, 2023, from http://www.lipsum.com. 
+2. Start Bootstrap. (n.d.). Modern Business. Retrieved Feburary 26, 2023, from https://startbootstrap.com/previews/modern-business.
+3. Pictures given in the powerpoint presentation to help with A2 and A3
